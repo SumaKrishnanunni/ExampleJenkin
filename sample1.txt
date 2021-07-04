@@ -1,0 +1,3 @@
+created a sample1.txt file
+clone the forked repo
+
